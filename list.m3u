@@ -1,0 +1,306 @@
+#EXTINF:-1,CCTV-1 综合 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:-1,CCTV-2 财经 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:-1,CCTV-3 综艺 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+#EXTINF:-1,CCTV-4 国际 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+#EXTINF:-1,CCTV-5 体育 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+#EXTINF:-1,CCTV-5+ 体育赛事 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+#EXTINF:-1,CCTV-6 电影 FHD
+http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1,CCTV-7 国防军事 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+#EXTINF:-1,CCTV-8 电视剧 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+#EXTINF:-1,CCTV-9 纪录 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+#EXTINF:-1,CCTV-10 科教 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+#EXTINF:-1,CCTV-11 戏曲 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:-1,CCTV-12 社会与法 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+#EXTINF:-1,CCTV-13 新闻 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1,CCTV-14 少儿 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+#EXTINF:-1,CCTV-15 音乐 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+#EXTINF:-1,CCTV-17 农村农业 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+#EXTINF:-1,CGTN FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+#EXTINF:-1,CCTV-4 美洲 SD
+https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1,CCTV-4 欧洲 SD
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1,CCTV-兵器科技 SD
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_adb3dsxh_original_r10/c213_scc_20190618_adb3dsxh_original_r10.m3u8
+#EXTINF:-1,CCTV-第一剧场 SD
+http://hls.globaliptv.ml/myguizhou.php?id=cctvdiyijuchang
+#EXTINF:-1,CCTV-发现之旅 SD
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000099.m3u8
+#EXTINF:-1,CCTV-风云剧场 SD
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000047.m3u8
+#EXTINF:-1,CCTV-风云音乐 SD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_oyou1l43_original_r10/c212_scc_20190618_oyou1l43_original_r10.m3u8
+#EXTINF:-1,CCTV-风云足球 SD
+http://hls.globaliptv.ml/myguizhou.php?id=cctvfengyunzuqiu
+#EXTINF:-1,CCTV-高尔夫网球 HD
+http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=739c8947f3ae1fff32001ea966c2fb0d
+#EXTINF:-1,CCTV-怀旧剧场 SD
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000048.m3u8
+#EXTINF:-1,CCTV-老故事 SD
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1,CCTV-女性时尚 SD
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_jahoddg0_original_r10/c213_scc_20190618_jahoddg0_original_r10.m3u8
+#EXTINF:-1,CCTV-世界地理 SD
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_whzzqk55_original_r10/c211_scc_20190618_whzzqk55_original_r10.m3u8
+#EXTINF:-1,CCTV-央视台球 SD
+http://42.48.60.248:8082/live/ystq-800k.m3u8
+#EXTINF:-1,CCTV-卫生健康 SD
+http://hls.globaliptv.ml/myguizhou.php?id=cctvweishengjiankang
+#EXTINF:-1,CCTV-央视文化精品 SD
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000046.m3u8
+#EXTINF:-1,CCTV-中学生 SD
+http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_xmfr0n1n_original_r10/c214_scc_20190618_xmfr0n1n_original_r10.m3u8
+#EXTINF:-1,湖南卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+#EXTINF:-1,江苏卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1,浙江卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1,东方卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1,四川卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+#EXTINF:-1,北京卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+#EXTINF:-1,广东卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1,深圳卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+#EXTINF:-1,山东卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+#EXTINF:-1,天津卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
+#EXTINF:-1,东南卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+#EXTINF:-1,黑龙江卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+#EXTINF:-1,湖北卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+#EXTINF:-1,江西卫视 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=jiangxiweishihd
+#EXTINF:-1,辽宁卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+#EXTINF:-1,重庆卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+#EXTINF:-1,安徽卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+#EXTINF:-1,河北卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+#EXTINF:-1,河南卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+#EXTINF:-1,贵州卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+#EXTINF:-1,广西卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+#EXTINF:-1,峨眉电影-1 HD
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1,峨眉电影-2 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8
+#EXTINF:-1,海南卫视 FHD
+http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+#EXTINF:-1,吉林卫视 HD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1,陕西卫视 HD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1,云南卫视 HD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1,甘肃卫视 HD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1,新疆卫视 HD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1,康巴卫视 SD
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1,海峡卫视 SD
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1,山西卫视 SD
+http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_wrbc04ks_original_r10/c214_scc_20190618_wrbc04ks_original_r10.m3u8
+#EXTINF:-1,宁夏卫视 SD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_tfzeigwy_original_r10/c212_scc_20190618_tfzeigwy_original_r10.m3u8
+#EXTINF:-1,内蒙古卫视 SD
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_mgfhomhn_original_r10/c213_scc_20190618_mgfhomhn_original_r10.m3u8
+#EXTINF:-1,青海卫视 SD
+http://hls.globaliptv.ml/myguizhou.php?id=qinghaiweishi
+#EXTINF:-1,西藏卫视 SD
+http://hls.globaliptv.ml/myguizhou.php?id=xizangweishi
+#EXTINF:-1,兵团卫视 (暂失效)
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
+#EXTINF:-1,CCTV 4K 流畅版
+http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8
+#EXTINF:-1,CCTV 4K 高码率
+http://hwltc.tv.cdn.zj.chinamobile.com/pltv/88888888/224/3221229373/index.m3u8?fmt=ts2hls
+#EXTINF:-1,BesTV 4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1,CETV-1 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8
+#EXTINF:-1,CETV-2 SD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+#EXTINF:-1,CETV-3 SD
+http://hls.zixuan.ml:13579/mymigu.php?id=649531756
+#EXTINF:-1,CETV-4 SD
+http://hls.zixuan.ml:13579/mymigu.php?id=649531725
+#EXTINF:-1,CETV 早期教育 SD
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_4xjwi0v3_original_r10/c211_scc_20190618_4xjwi0v3_original_r10.m3u8
+#EXTINF:-1,CHC动作电影
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
+#EXTINF:-1,CHC高清电影
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
+#EXTINF:-1,CHC家庭电影
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
+#EXTINF:-1,Document全记实 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8
+#EXTINF:-1,求索记录 FHD
+http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1,新视觉 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8
+#EXTINF:-1,快乐垂钓 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_fq3c2esl_original_r10/c214_scc_20190618_fq3c2esl_original_r10.m3u8
+#EXTINF:-1,欢笑剧场 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8
+#EXTINF:-1,都市剧场 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_4lpqgfgj_original_r10/c214_scc_20190618_4lpqgfgj_original_r10.m3u8
+#EXTINF:-1,生活时尚 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_vrqwjwec_original_r10/c212_scc_20190618_vrqwjwec_original_r10.m3u8
+#EXTINF:-1,极速汽车 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8
+#EXTINF:-1,动漫秀场 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_0ao2empo_original_r10/c212_scc_20190618_0ao2empo_original_r10.m3u8
+#EXTINF:-1,中华美食 SD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_ewbvlwno_original_r10/c212_scc_20190618_ewbvlwno_original_r10.m3u8
+#EXTINF:-1,天元围棋 SD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190620_i2oihge1_original_r10/c212_scc_20190620_i2oihge1_original_r10.m3u8
+#EXTINF:-1,先锋乒羽 SD
+http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_mfs1nrj3_original_r10/c214_scc_20190618_mfs1nrj3_original_r10.m3u8
+#EXTINF:-1,游戏竞技 SD
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_4ztlh52w_original_r10/c211_scc_20190618_4ztlh52w_original_r10.m3u8
+#EXTINF:-1,摄影频道 SD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_jljxba4l_original_r10/c212_scc_20190618_jljxba4l_original_r10.m3u8
+#EXTINF:-1,江苏靓装 SD
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_n0r5emy4_original_r10/c211_scc_20190618_n0r5emy4_original_r10.m3u8
+#EXTINF:-1,环球奇观 SD
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_1owx0aoh_original_r10/c213_scc_20190618_1owx0aoh_original_r10.m3u8
+#EXTINF:-1,家庭理财 SD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_02r3wayg_original_r10/c212_scc_20190618_02r3wayg_original_r10.m3u8
+#EXTINF:-1,四海垂钓 SD
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_sbsingex_original_r10/c213_scc_20190618_sbsingex_original_r10.m3u8
+#EXTINF:-1,CBN每日影院 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=cbnmeiriyingyuanhd
+#EXTINF:-1,CBN幸福剧场 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=cbnxingfujuchanghd
+#EXTINF:-1,CBN风尚生活 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=cbnfengshangshenghuohd
+#EXTINF:-1,DOX新知 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=doxxinzhihd
+#EXTINF:-1,DOX新艺 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=doxxinyihd
+#EXTINF:-1,DOX怡家 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=doxyijiahd
+#EXTINF:-1,DOX英伦 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=doxyinglunhd
+#EXTINF:-1,DOX院线 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=doxyuanxianhd
+#EXTINF:-1,DOX映画 FHD
+http://hls.globaliptv.ml/myguizhou.php?id=doxyinghuahd
+#EXTINF:-1,华数FHD-01
+http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
+#EXTINF:-1,华数FHD-02
+http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
+#EXTINF:-1,华数FHD-03
+http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
+#EXTINF:-1,华数FHD-04
+http://hls-ott-zhibo.wasu.tv/live/384/index.m3u8
+#EXTINF:-1,华数FHD-05
+http://hls-ott-zhibo.wasu.tv/live/386/index.m3u8
+#EXTINF:-1,华数FHD-06
+http://hls-ott-zhibo.wasu.tv/live/412/index.m3u8
+#EXTINF:-1,华数FHD-07
+http://hls-ott-zhibo.wasu.tv/live/413/index.m3u8
+#EXTINF:-1,华数FHD-08
+http://hls-ott-zhibo.wasu.tv/live/410/index.m3u8
+#EXTINF:-1,华数FHD-09
+http://hls-ott-zhibo.wasu.tv/live/414/index.m3u8
+#EXTINF:-1,华数FHD-10
+http://hls-ott-zhibo.wasu.tv/live/415/index.m3u8
+#EXTINF:-1,华数FHD-11
+http://hls-ott-zhibo.wasu.tv/live/420/index.m3u8
+#EXTINF:-1,华数FHD-12
+http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
+#EXTINF:-1,华数FHD-13
+http://hls-ott-zhibo.wasu.tv/live/435/index.m3u8
+#EXTINF:-1,华数FHD-15
+http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
+#EXTINF:-1,华数HD-01
+http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
+#EXTINF:-1,华数HD-02
+http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
+#EXTINF:-1,华数HD-03
+http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+#EXTINF:-1,华数HD-04
+http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
+#EXTINF:-1,华数HD-05
+http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
+#EXTINF:-1,华数HD-06
+http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
+#EXTINF:-1,华数HD-07
+http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+#EXTINF:-1,华数HD-08
+http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
+#EXTINF:-1,华数HD-09
+http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
+#EXTINF:-1,华数HD-10
+http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+#EXTINF:-1,华数HD-11
+http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+#EXTINF:-1,华数HD-12
+http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
+#EXTINF:-1,华数HD-13
+http://hls-ott-zhibo.wasu.tv/live/367/index.m3u8
+#EXTINF:-1,华数HD-14
+http://hls-ott-zhibo.wasu.tv/live/365/index.m3u8
+#EXTINF:-1,华数HD-15
+http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+#EXTINF:-1,华数HD-16
+http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1,华数HD-17
+http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
+#EXTINF:-1,华数HD-18
+http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
+#EXTINF:-1,华数HD-19
+http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
+#EXTINF:-1,华数HD-20
+http://hls-ott-zhibo.wasu.tv/live/422/index.m3u8
+#EXTINF:-1,华数HD-21
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+#EXTINF:-1,华数HD-22
+http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+#EXTINF:-1,华数HD-23
+http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+#EXTINF:-1,四川 文化旅游 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190617_ubvkckj4_original_r10/c211_scc_20190617_ubvkckj4_original_r10.m3u8
+#EXTINF:-1,四川 经济 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190617_ry4zkwol_original_r10/c212_scc_20190617_ry4zkwol_original_r10.m3u8
+#EXTINF:-1,四川 新闻 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_o4cr4fzk_original_r10/c211_scc_20190618_o4cr4fzk_original_r10.m3u8
+#EXTINF:-1,四川 影视文艺 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_eqfvkj53_original_r10/c212_scc_20190618_eqfvkj53_original_r10.m3u8
+#EXTINF:-1,四川 妇女儿童 FHD
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_giaorvjb_original_r10/c213_scc_20190618_giaorvjb_original_r10.m3u8
+#EXTINF:-1,四川 科教 HD
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=020&Provider_id=&Pcontent_id=index.m3u8
