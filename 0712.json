@@ -1,6 +1,6 @@
-//配置地址 clan://https://raw.githubusercontent.com/282206796/iptv.gitub.io/master/0712.json
+//配置地址 clan://HTTP://raw.githubusercontent.com/282206796/iptv.gitub.io/master/0712.json
 {
-"spider":"clan://https://github.com/282206796/iptv.gitub.io/blob/master/0712.jar",
+"spider":"clan://HTTP://github.com/282206796/iptv.gitub.io/blob/master/0712.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
