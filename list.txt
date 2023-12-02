@@ -2,7 +2,7 @@
 【CCTV1综合】,http://1.85.6.42:8888/newlive/live/hls/2/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=2
 【CCTV2财经】,http://1.85.6.42:8888/newlive/live/hls/3/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=3
 【CCTV3综艺】 ,http://1.85.6.42:8888/newlive/live/hls/4/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=4
-【CCTV4国际】http://1.85.6.42:8888/newlive/live/hls/5/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=5
+【CCTV4国际】，http://1.85.6.42:8888/newlive/live/hls/5/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=5
 【CCTV5体育高清】,http://1.85.6.42:8888/newlive/live/hls/6/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=6
 【CCTV5+体育高清】,http://1.85.6.42:8888/newlive/live/hls/7/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=7
 【CCTV6电影】,http://1.85.6.42:8888/newlive/live/hls/8/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=8
@@ -51,9 +51,9 @@
 【内蒙古卫视】,http://1.85.6.42:8888/newlive/live/hls/51/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=51
 【兵团卫视】,http://1.85.6.42:8888/newlive/live/hls/52/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=52
 #陕西
-【陕西西安】,http://1.85.6.42:8888/newlive/live/hls/41/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=41
-【陕西西安】,http://1.85.6.42:8888/newlive/live/hls/53/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=53
-【陕西西安】,http://1.85.6.42:8888/newlive/live/hls/54/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=54
-【陕西西安】,http://1.85.6.42:8888/newlive/live/hls/55/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=55
-【陕西西安】,http://1.85.6.42:8888/newlive/live/hls/56/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=56
-【陕西西安】,http://1.85.6.42:8888/newlive/live/hls/57/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=57
+【陕西卫视】,http://1.85.6.42:8888/newlive/live/hls/41/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=41
+【新闻资讯】,http://1.85.6.42:8888/newlive/live/hls/53/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=53
+【都市青春】,http://1.85.6.42:8888/newlive/live/hls/54/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=54
+【生活】,http://1.85.6.42:8888/newlive/live/hls/55/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=55
+【影视】,http://1.85.6.42:8888/newlive/live/hls/56/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=56
+【公共】,http://1.85.6.42:8888/newlive/live/hls/57/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=57
