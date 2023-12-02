@@ -15,6 +15,7 @@
 【CCTV14少儿高清】频道ID[16]【HSMEDIA】CCTV14少儿高清,http://1.85.6.42:8888/newlive/live/hls/16/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=16
 【CCTV15音乐高清】频道ID[17]【HSMEDIA】CCTV15音乐高清,http://1.85.6.42:8888/newlive/live/hls/17/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=17
 【CGTN】频道ID[18]【HSMEDIA】CGTN,http://1.85.6.42:8888/newlive/live/hls/18/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=18
+【CGTN】频道ID[18]【HSMEDIA】CGTN,#各省卫视
 【北京卫视高清】频道ID[19]【HSMEDIA】北京卫视高清,http://1.85.6.42:8888/newlive/live/hls/19/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=19
 【安徽卫视高清】频道ID[20]【HSMEDIA】安徽卫视高清,http://1.85.6.42:8888/newlive/live/hls/20/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=20
 【广东卫视高清】频道ID[21]【HSMEDIA】广东卫视高清,http://1.85.6.42:8888/newlive/live/hls/21/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=21
@@ -37,7 +38,6 @@
 【新疆卫视】频道ID[38]【HSMEDIA】新疆卫视,http://1.85.6.42:8888/newlive/live/hls/38/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=38
 【青海卫视】频道ID[39]【HSMEDIA】青海卫视,http://1.85.6.42:8888/newlive/live/hls/39/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=39
 【宁夏卫视】频道ID[40]【HSMEDIA】宁夏卫视,http://1.85.6.42:8888/newlive/live/hls/40/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=40
-【陕西西安】频道ID[41]【HSMEDIA】陕西卫视,http://1.85.6.42:8888/newlive/live/hls/41/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=41
 【山西卫视】频道ID[42]【HSMEDIA】山西卫视,http://1.85.6.42:8888/newlive/live/hls/42/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=42
 【海南卫视】频道ID[43]【HSMEDIA】海南卫视,http://1.85.6.42:8888/newlive/live/hls/43/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=43
 【厦门卫视】频道ID[44]【HSMEDIA】厦门卫视,http://1.85.6.42:8888/newlive/live/hls/44/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=44
@@ -49,6 +49,8 @@
 【河北卫视】频道ID[50]【HSMEDIA】河北卫视,http://1.85.6.42:8888/newlive/live/hls/50/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=50
 【内蒙古卫视】频道ID[51]【HSMEDIA】内蒙古卫视,http://1.85.6.42:8888/newlive/live/hls/51/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=51
 【兵团卫视】频道ID[52]【HSMEDIA】兵团卫视,http://1.85.6.42:8888/newlive/live/hls/52/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=52
+【兵团卫视】频道ID[52]【HSMEDIA】兵团卫视,#陕西
+【陕西西安】频道ID[41]【HSMEDIA】陕西卫视,http://1.85.6.42:8888/newlive/live/hls/41/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=41
 【陕西西安】频道ID[53]【HSMEDIA】新闻资讯,http://1.85.6.42:8888/newlive/live/hls/53/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=53
 【陕西西安】频道ID[54]【HSMEDIA】都市青春,http://1.85.6.42:8888/newlive/live/hls/54/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=54
 【陕西西安】频道ID[55]【HSMEDIA】生活,http://1.85.6.42:8888/newlive/live/hls/55/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=55
